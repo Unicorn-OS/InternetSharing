@@ -3,5 +3,5 @@
     devel: true
   roles:
 #    - UniInc.InternetSharing-no-DHCP
-    - ansible-role-InternetSharing-no-DHCP
+    - dev/ansible-role-InternetSharing-no-DHCP
 
