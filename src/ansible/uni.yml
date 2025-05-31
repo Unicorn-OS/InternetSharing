@@ -1,4 +1,4 @@
-- hosts: localhost #, node
+- hosts: router_vm #localhost #, node
   vars:
     devel: true
   roles:
